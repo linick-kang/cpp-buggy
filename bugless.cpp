@@ -22,7 +22,6 @@ static std::vector<Word*> s_wordsArray;
 static Word s_word;
 static int s_totalFound;
 
-abc
 
 // Worker thread: consume words passed from the main thread and insert them
 // in the 'word list' (s_wordsArray), while removing duplicates. Terminate when
